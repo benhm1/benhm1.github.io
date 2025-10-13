@@ -21,3 +21,4 @@
 * [Train 685](685.md)
 * [Train 688](688.md)
 * [Train 689](689.md)
+* [Train 692](692.md)
