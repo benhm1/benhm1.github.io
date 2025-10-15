@@ -56,6 +56,7 @@
 * [Train 495](495.md)
 * [Train 497](497.md)
 * [Train 502](502.md)
+* [Train 505](505.md)
 * [Train 511](511.md)
 * [Train 517](517.md)
 * [Train 520](520.md)
