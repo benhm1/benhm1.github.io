@@ -62,6 +62,7 @@
 * [Train 520](520.md)
 * [Train 525](525.md)
 * [Train 532](532.md)
+* [Train 536](536.md)
 * [Train 537](537.md)
 * [Train 544](544.md)
 * [Train 612](612.md)
