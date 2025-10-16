@@ -2,17 +2,17 @@
 
 | Station | Num Samples | Min | Max | Mean | Median |
 | :-----: | :---------: | :-: | :-: | :--: | :----: |
-| Perryville MARC | 2 | 1 | 9 | 5.00 | 9 |
-| Aberdeen MARC Sb | 2 | 3 | 11 | 7.00 | 11 |
-| Edgewood MARC Sb | 2 | 4 | 13 | 8.50 | 13 |
-| Martin Airport MARC Sb | 2 | 12 | 14 | 13.00 | 14 |
-| Penn Station MARC Sb | 2 | 8 | 11 | 9.50 | 11 |
-| West Baltimore MARC Sb | 2 | 8 | 12 | 10.00 | 12 |
-| Halethorpe MARC Sb | 2 | 7 | 12 | 9.50 | 12 |
-| BWI Rail Station MARC Sb | 2 | 5 | 10 | 7.50 | 10 |
-| Odenton MARC Sb | 2 | 6 | 12 | 9.00 | 12 |
-| New Carrollton MARC Sb | 2 | 14 | 18 | 16.00 | 18 |
-| Union Station MARC Washington | 2 | 15 | 19 | 17.00 | 19 |
+| Perryville MARC | 3 | 1 | 9 | 4.67 | 4 |
+| Aberdeen MARC Sb | 3 | 3 | 11 | 7.00 | 7 |
+| Edgewood MARC Sb | 3 | 4 | 13 | 8.33 | 8 |
+| Martin Airport MARC Sb | 3 | 10 | 14 | 12.00 | 12 |
+| Penn Station MARC Sb | 3 | 8 | 11 | 9.67 | 10 |
+| West Baltimore MARC Sb | 3 | 8 | 12 | 10.00 | 10 |
+| Halethorpe MARC Sb | 3 | 7 | 12 | 9.67 | 10 |
+| BWI Rail Station MARC Sb | 3 | 5 | 10 | 8.00 | 9 |
+| Odenton MARC Sb | 3 | 6 | 12 | 9.67 | 11 |
+| New Carrollton MARC Sb | 3 | 14 | 18 | 16.67 | 18 |
+| Union Station MARC Washington | 3 | 15 | 19 | 17.33 | 18 |
 
 
-Last Updated: 2025-10-15T03:32:56.001756-04:00
+Last Updated: 2025-10-16T03:32:15.741246-04:00
