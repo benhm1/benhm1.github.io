@@ -105,6 +105,7 @@
 * [Train 870](train_870.md)
 * [Train 872](train_872.md)
 * [Train 873](train_873.md)
+* [Train 874](train_874.md)
 * [Train 875](train_875.md)
 * [Train 877](train_877.md)
 * [Train 878](train_878.md)
