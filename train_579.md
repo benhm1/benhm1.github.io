@@ -2,11 +2,11 @@
 
 | Station | Num Samples | Min | Max | Mean | Median |
 | :-----: | :---------: | :-: | :-: | :--: | :----: |
-| Perryville MARC | 2 | 0 | 3 | 1.50 | 3 |
-| Aberdeen MARC Sb | 2 | 0 | 4 | 2.00 | 4 |
-| Edgewood MARC Sb | 2 | 0 | 4 | 2.00 | 4 |
-| Martin Airport MARC Sb | 2 | 0 | 5 | 2.50 | 5 |
-| Penn Station MARC Sb | 2 | 1 | 10 | 5.50 | 10 |
+| Perryville MARC | 3 | 0 | 3 | 1.00 | 0 |
+| Aberdeen MARC Sb | 3 | 0 | 4 | 1.33 | 0 |
+| Edgewood MARC Sb | 3 | 0 | 4 | 1.33 | 0 |
+| Martin Airport MARC Sb | 3 | 0 | 5 | 1.67 | 0 |
+| Penn Station MARC Sb | 3 | 1 | 10 | 4.00 | 1 |
 
 
-Last Updated: 2025-10-16T03:32:43.498964-04:00
+Last Updated: 2025-10-17T03:32:45.070844-04:00
