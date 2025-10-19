@@ -86,6 +86,7 @@
 * [Train 692](train_692.md)
 * [Train 694](train_694.md)
 * [Train 696](train_696.md)
+* [Train 698](train_698.md)
 * [Train 840](train_840.md)
 * [Train 841](train_841.md)
 * [Train 842](train_842.md)
