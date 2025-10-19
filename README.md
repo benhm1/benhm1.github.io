@@ -77,6 +77,7 @@
 * [Train 634](train_634.md)
 * [Train 641](train_641.md)
 * [Train 642](train_642.md)
+* [Train 675](train_675.md)
 * [Train 677](train_677.md)
 * [Train 681](train_681.md)
 * [Train 685](train_685.md)
