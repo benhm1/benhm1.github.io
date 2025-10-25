@@ -2,15 +2,15 @@
 
 | Station | Num Samples | Min | Max | Mean | Median |
 | :-----: | :---------: | :-: | :-: | :--: | :----: |
-| Union Station MARC Washington | 8 | 0 | 4 | 1.38 | 1 |
-| Riverdale MARC Nb | 8 | 0 | 10 | 3.75 | 3 |
-| College Park MARC Nb | 8 | 0 | 10 | 3.88 | 4 |
-| Greenbelt MARC Nb | 8 | 1 | 10 | 4.50 | 5 |
-| Muirkirk MARC Nb | 8 | 1 | 11 | 5.12 | 5 |
-| Laurel MARC Nb | 8 | 0 | 10 | 4.38 | 5 |
-| Savage MARC Nb | 8 | 1 | 11 | 5.12 | 6 |
-| Dorsey MARC Nb | 8 | 2 | 12 | 6.38 | 7 |
-| Camden Station MARC | 8 | 0 | 3 | 0.62 | 0 |
+| Union Station MARC Washington | 9 | 0 | 4 | 1.33 | 1 |
+| Riverdale MARC Nb | 9 | 0 | 10 | 3.67 | 3 |
+| College Park MARC Nb | 9 | 0 | 10 | 3.78 | 3 |
+| Greenbelt MARC Nb | 9 | 1 | 10 | 4.44 | 4 |
+| Muirkirk MARC Nb | 9 | 1 | 11 | 5.00 | 5 |
+| Laurel MARC Nb | 9 | 0 | 10 | 4.22 | 4 |
+| Savage MARC Nb | 9 | 1 | 11 | 5.00 | 5 |
+| Dorsey MARC Nb | 9 | 2 | 12 | 6.22 | 6 |
+| Camden Station MARC | 9 | 0 | 3 | 0.56 | 0 |
 
 
-Last Updated: 2025-10-24T03:33:14.573050-04:00
+Last Updated: 2025-10-25T03:33:07.675423-04:00
