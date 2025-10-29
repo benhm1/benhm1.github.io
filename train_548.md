@@ -2,19 +2,19 @@
 
 | Station | Num Samples | Min | Max | Mean | Median |
 | :-----: | :---------: | :-: | :-: | :--: | :----: |
-| Union Station MARC Washington | 10 | 1 | 2 | 1.20 | 1 |
-| New Carrollton MARC Nb | 10 | 0 | 1 | 0.30 | 0 |
-| Seabrook MARC Nb | 10 | 0 | 2 | 0.40 | 0 |
-| Bowie State MARC Nb | 10 | 0 | 3 | 0.80 | 0 |
-| Odenton MARC Nb | 10 | 0 | 4 | 1.70 | 2 |
-| BWI Rail Station MARC Nb | 10 | 0 | 5 | 1.30 | 1 |
-| Halethorpe MARC Nb | 10 | 0 | 4 | 1.20 | 1 |
-| West Baltimore MARC Nb | 10 | 0 | 5 | 1.60 | 1 |
-| Penn Station MARC Nb | 10 | 0 | 1 | 0.10 | 0 |
-| Martin Airport MARC Nb | 10 | 2 | 4 | 2.80 | 3 |
-| Edgewood MARC Nb | 10 | 0 | 0 | 0.00 | 0 |
-| Aberdeen MARC Nb | 10 | 0 | 0 | 0.00 | 0 |
-| Perryville MARC | 10 | 0 | 0 | 0.00 | 0 |
+| Union Station MARC Washington | 11 | 1 | 2 | 1.27 | 1 |
+| New Carrollton MARC Nb | 11 | 0 | 1 | 0.27 | 0 |
+| Seabrook MARC Nb | 11 | 0 | 2 | 0.36 | 0 |
+| Bowie State MARC Nb | 11 | 0 | 3 | 0.82 | 0 |
+| Odenton MARC Nb | 11 | 0 | 4 | 1.64 | 1 |
+| BWI Rail Station MARC Nb | 11 | 0 | 5 | 1.18 | 0 |
+| Halethorpe MARC Nb | 11 | 0 | 4 | 1.09 | 0 |
+| West Baltimore MARC Nb | 11 | 0 | 5 | 1.64 | 1 |
+| Penn Station MARC Nb | 11 | 0 | 1 | 0.09 | 0 |
+| Martin Airport MARC Nb | 11 | 2 | 4 | 2.73 | 2 |
+| Edgewood MARC Nb | 11 | 0 | 0 | 0.00 | 0 |
+| Aberdeen MARC Nb | 11 | 0 | 0 | 0.00 | 0 |
+| Perryville MARC | 11 | 0 | 0 | 0.00 | 0 |
 
 
-Last Updated: 2025-10-28T03:32:33.359089-04:00
+Last Updated: 2025-10-29T03:32:30.762539-04:00
