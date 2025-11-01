@@ -2,12 +2,12 @@
 
 | Station | Num Samples | Min | Max | Mean | Median |
 | :-----: | :---------: | :-: | :-: | :--: | :----: |
-| Union Station MARC Washington | 14 | 0 | 7 | 1.64 | 1 |
-| Bowie State MARC Nb | 14 | 1 | 16 | 4.14 | 2 |
-| Odenton MARC Nb | 14 | 1 | 16 | 3.71 | 2 |
-| West Baltimore MARC Nb | 14 | 1 | 24 | 6.50 | 5 |
-| Penn Station MARC Nb | 14 | 0 | 27 | 6.36 | 5 |
-| Martin Airport MARC Nb | 14 | 0 | 44 | 6.86 | 4 |
+| Union Station MARC Washington | 15 | 0 | 7 | 1.60 | 1 |
+| Bowie State MARC Nb | 15 | 1 | 16 | 4.00 | 2 |
+| Odenton MARC Nb | 15 | 1 | 16 | 3.53 | 2 |
+| West Baltimore MARC Nb | 15 | 1 | 24 | 6.13 | 5 |
+| Penn Station MARC Nb | 15 | 0 | 27 | 5.93 | 4 |
+| Martin Airport MARC Nb | 15 | 0 | 44 | 6.40 | 3 |
 
 
-Last Updated: 2025-10-31T03:32:53.922636-04:00
+Last Updated: 2025-11-01T03:32:49.881789-04:00
