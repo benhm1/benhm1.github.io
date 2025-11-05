@@ -2,13 +2,13 @@
 
 | Station | Num Samples | Min | Max | Mean | Median |
 | :-----: | :---------: | :-: | :-: | :--: | :----: |
-| Union Station MARC Washington | 14 | 0 | 3 | 1.21 | 1 |
-| BWI Rail Station MARC Nb | 14 | 0 | 8 | 2.86 | 2 |
-| Penn Station MARC Nb | 14 | 0 | 11 | 1.86 | 0 |
-| Martin Airport MARC Nb | 14 | 0 | 14 | 3.43 | 2 |
-| Edgewood MARC Nb | 14 | 0 | 10 | 2.00 | 0 |
-| Aberdeen MARC Nb | 14 | 0 | 21 | 3.36 | 1 |
-| Perryville MARC | 14 | 0 | 15 | 1.50 | 0 |
+| Union Station MARC Washington | 15 | 0 | 3 | 1.20 | 1 |
+| BWI Rail Station MARC Nb | 15 | 0 | 8 | 2.80 | 2 |
+| Penn Station MARC Nb | 15 | 0 | 11 | 1.73 | 0 |
+| Martin Airport MARC Nb | 15 | 0 | 14 | 3.33 | 2 |
+| Edgewood MARC Nb | 15 | 0 | 10 | 1.87 | 0 |
+| Aberdeen MARC Nb | 15 | 0 | 21 | 3.13 | 0 |
+| Perryville MARC | 15 | 0 | 15 | 1.40 | 0 |
 
 
-Last Updated: 2025-11-04T02:32:34.096225-05:00
+Last Updated: 2025-11-05T02:32:30.049712-05:00
