@@ -2,11 +2,11 @@
 
 | Station | Num Samples | Min | Max | Mean | Median |
 | :-----: | :---------: | :-: | :-: | :--: | :----: |
-| Union Station MARC Washington | 15 | 0 | 4 | 1.20 | 1 |
-| New Carrollton MARC Nb | 15 | 0 | 3 | 0.80 | 1 |
-| Odenton MARC Nb | 15 | 0 | 5 | 0.40 | 0 |
-| BWI Rail Station MARC Nb | 15 | 0 | 14 | 6.00 | 5 |
-| Penn Station MARC Nb | 15 | 0 | 11 | 1.73 | 0 |
+| Union Station MARC Washington | 16 | 0 | 4 | 1.12 | 1 |
+| New Carrollton MARC Nb | 16 | 0 | 3 | 0.75 | 1 |
+| Odenton MARC Nb | 16 | 0 | 5 | 0.38 | 0 |
+| BWI Rail Station MARC Nb | 16 | 0 | 14 | 5.81 | 5 |
+| Penn Station MARC Nb | 16 | 0 | 11 | 1.62 | 0 |
 
 
-Last Updated: 2025-11-05T02:30:23.033548-05:00
+Last Updated: 2025-11-06T02:30:17.446491-05:00
