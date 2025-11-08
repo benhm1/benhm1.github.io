@@ -2,19 +2,19 @@
 
 | Station | Num Samples | Min | Max | Mean | Median |
 | :-----: | :---------: | :-: | :-: | :--: | :----: |
-| Brunswick Md MARC Eb | 17 | 0 | 1 | 0.47 | 0 |
-| Point Of Rocks MARC Eb | 17 | 1 | 6 | 1.47 | 1 |
-| Dickerson MARC Eb | 17 | 0 | 14 | 2.53 | 1 |
-| Barnesville MARC Eb | 17 | 0 | 23 | 3.53 | 2 |
-| Boyds MARC Eb | 17 | 0 | 32 | 3.12 | 1 |
-| Germantown MARC Eb | 17 | 0 | 34 | 4.24 | 2 |
-| Metropolitan Grove MARC Eb | 17 | 0 | 36 | 5.18 | 3 |
-| Gaithersburg MARC Eb | 17 | 0 | 36 | 5.65 | 4 |
-| Washington Grove MARC Eb | 17 | 1 | 37 | 6.76 | 5 |
-| Rockville MARC Eb | 17 | 0 | 34 | 4.41 | 3 |
-| Kensington MARC Eb | 17 | 0 | 36 | 6.12 | 4 |
-| Silver Spring MARC Eb | 17 | 0 | 35 | 5.12 | 2 |
-| Union Station MARC Washington | 17 | 0 | 20 | 1.18 | 0 |
+| Brunswick Md MARC Eb | 18 | 0 | 1 | 0.44 | 0 |
+| Point Of Rocks MARC Eb | 18 | 0 | 6 | 1.39 | 1 |
+| Dickerson MARC Eb | 18 | 0 | 14 | 2.39 | 1 |
+| Barnesville MARC Eb | 18 | 0 | 23 | 3.33 | 2 |
+| Boyds MARC Eb | 18 | 0 | 32 | 2.94 | 1 |
+| Germantown MARC Eb | 18 | 0 | 34 | 4.00 | 2 |
+| Metropolitan Grove MARC Eb | 18 | 0 | 36 | 4.94 | 3 |
+| Gaithersburg MARC Eb | 18 | 0 | 36 | 5.39 | 4 |
+| Washington Grove MARC Eb | 18 | 1 | 37 | 6.50 | 5 |
+| Rockville MARC Eb | 18 | 0 | 34 | 4.17 | 3 |
+| Kensington MARC Eb | 18 | 0 | 36 | 5.83 | 4 |
+| Silver Spring MARC Eb | 18 | 0 | 35 | 4.83 | 2 |
+| Union Station MARC Washington | 18 | 0 | 20 | 1.11 | 0 |
 
 
-Last Updated: 2025-11-07T02:34:07.667054-05:00
+Last Updated: 2025-11-08T02:34:00.417026-05:00
