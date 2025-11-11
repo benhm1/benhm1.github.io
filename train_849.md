@@ -2,13 +2,13 @@
 
 | Station | Num Samples | Min | Max | Mean | Median |
 | :-----: | :---------: | :-: | :-: | :--: | :----: |
-| Camden Station MARC | 21 | 0 | 6 | 1.19 | 1 |
-| Dorsey MARC Sb | 21 | 0 | 12 | 1.81 | 1 |
-| Savage MARC Sb | 21 | 0 | 12 | 2.90 | 2 |
-| Laurel MARC Sb | 21 | 0 | 13 | 3.90 | 3 |
-| Muirkirk MARC Sb | 21 | 0 | 14 | 4.57 | 4 |
-| College Park MARC Sb | 21 | 0 | 20 | 6.29 | 6 |
-| Union Station MARC Washington | 21 | 0 | 12 | 2.24 | 0 |
+| Camden Station MARC | 22 | 0 | 6 | 1.18 | 1 |
+| Dorsey MARC Sb | 22 | 0 | 12 | 1.86 | 1 |
+| Savage MARC Sb | 22 | 0 | 12 | 2.91 | 2 |
+| Laurel MARC Sb | 22 | 0 | 13 | 3.91 | 4 |
+| Muirkirk MARC Sb | 22 | 0 | 14 | 4.64 | 4 |
+| College Park MARC Sb | 22 | 0 | 20 | 6.32 | 6 |
+| Union Station MARC Washington | 22 | 0 | 12 | 2.14 | 0 |
 
 
-Last Updated: 2025-11-08T02:33:25.190757-05:00
+Last Updated: 2025-11-11T02:33:33.579204-05:00
