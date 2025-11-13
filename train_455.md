@@ -2,15 +2,15 @@
 
 | Station | Num Samples | Min | Max | Mean | Median |
 | :-----: | :---------: | :-: | :-: | :--: | :----: |
-| Penn Station MARC Sb | 19 | 0 | 16 | 3.47 | 2 |
-| West Baltimore MARC Sb | 19 | 2 | 17 | 6.26 | 5 |
-| Halethorpe MARC Sb | 19 | 2 | 13 | 6.26 | 6 |
-| BWI Rail Station MARC Sb | 19 | 0 | 10 | 4.11 | 4 |
-| Odenton MARC Sb | 19 | 1 | 12 | 5.79 | 6 |
-| Bowie State MARC Sb | 19 | 2 | 14 | 6.84 | 7 |
-| Seabrook MARC Sb | 19 | 3 | 16 | 7.95 | 7 |
-| New Carrollton MARC Sb | 19 | 4 | 17 | 8.84 | 8 |
-| Union Station MARC Washington | 19 | 6 | 20 | 10.89 | 10 |
+| Penn Station MARC Sb | 20 | 0 | 16 | 3.45 | 2 |
+| West Baltimore MARC Sb | 20 | 2 | 17 | 6.20 | 5 |
+| Halethorpe MARC Sb | 20 | 2 | 13 | 6.20 | 6 |
+| BWI Rail Station MARC Sb | 20 | 0 | 10 | 4.05 | 4 |
+| Odenton MARC Sb | 20 | 1 | 12 | 5.75 | 6 |
+| Bowie State MARC Sb | 20 | 2 | 14 | 6.85 | 7 |
+| Seabrook MARC Sb | 20 | 3 | 16 | 7.95 | 8 |
+| New Carrollton MARC Sb | 20 | 4 | 17 | 8.85 | 9 |
+| Union Station MARC Washington | 20 | 6 | 20 | 10.85 | 10 |
 
 
-Last Updated: 2025-11-12T02:32:02.305304-05:00
+Last Updated: 2025-11-13T02:32:10.965271-05:00
