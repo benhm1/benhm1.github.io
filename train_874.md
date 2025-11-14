@@ -2,19 +2,19 @@
 
 | Station | Num Samples | Min | Max | Mean | Median |
 | :-----: | :---------: | :-: | :-: | :--: | :----: |
-| Martinsburg W Va MARC | 21 | 0 | 17 | 1.33 | 1 |
-| Duffields W Va MARC Eb | 21 | 0 | 10 | 0.52 | 0 |
-| Harpers Ferry W Va MARC Eb | 21 | 0 | 134 | 7.24 | 0 |
-| Brunswick Md MARC Eb | 21 | 0 | 131 | 7.48 | 1 |
-| Point Of Rocks MARC Eb | 21 | 0 | 130 | 6.86 | 0 |
-| Barnesville MARC Eb | 21 | 0 | 128 | 7.57 | 1 |
-| Germantown MARC Eb | 21 | 1 | 127 | 8.90 | 2 |
-| Metropolitan Grove MARC Eb | 21 | 1 | 126 | 9.76 | 2 |
-| Gaithersburg MARC Eb | 21 | 1 | 125 | 9.71 | 2 |
-| Rockville MARC Eb | 21 | 0 | 124 | 10.24 | 2 |
-| Kensington MARC Eb | 21 | 2 | 125 | 11.81 | 4 |
-| Silver Spring MARC Eb | 21 | 0 | 122 | 11.10 | 3 |
-| Union Station MARC Washington | 20 | 0 | 117 | 7.80 | 0 |
+| Martinsburg W Va MARC | 22 | 0 | 17 | 1.27 | 1 |
+| Duffields W Va MARC Eb | 22 | 0 | 10 | 0.50 | 0 |
+| Harpers Ferry W Va MARC Eb | 22 | 0 | 134 | 6.91 | 0 |
+| Brunswick Md MARC Eb | 22 | 0 | 131 | 7.14 | 1 |
+| Point Of Rocks MARC Eb | 22 | 0 | 130 | 6.55 | 0 |
+| Barnesville MARC Eb | 22 | 0 | 128 | 7.23 | 1 |
+| Germantown MARC Eb | 22 | 1 | 127 | 8.55 | 2 |
+| Metropolitan Grove MARC Eb | 22 | 1 | 126 | 9.41 | 2 |
+| Gaithersburg MARC Eb | 22 | 1 | 125 | 9.32 | 2 |
+| Rockville MARC Eb | 22 | 0 | 124 | 9.91 | 2 |
+| Kensington MARC Eb | 22 | 2 | 125 | 11.45 | 4 |
+| Silver Spring MARC Eb | 22 | 0 | 122 | 10.68 | 3 |
+| Union Station MARC Washington | 21 | 0 | 117 | 7.43 | 0 |
 
 
-Last Updated: 2025-11-13T02:34:28.822646-05:00
+Last Updated: 2025-11-14T02:34:04.187092-05:00
