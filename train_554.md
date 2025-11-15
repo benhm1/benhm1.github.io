@@ -2,10 +2,10 @@
 
 | Station | Num Samples | Min | Max | Mean | Median |
 | :-----: | :---------: | :-: | :-: | :--: | :----: |
-| Penn Station MARC Nb | 23 | 0 | 8 | 1.39 | 1 |
-| Edgewood MARC Nb | 23 | 0 | 9 | 0.91 | 0 |
-| Aberdeen MARC Nb | 23 | 0 | 13 | 2.00 | 1 |
-| Perryville MARC | 23 | 0 | 12 | 2.30 | 1 |
+| Penn Station MARC Nb | 24 | 0 | 8 | 1.38 | 1 |
+| Edgewood MARC Nb | 24 | 0 | 9 | 0.88 | 0 |
+| Aberdeen MARC Nb | 24 | 0 | 13 | 1.92 | 1 |
+| Perryville MARC | 24 | 0 | 12 | 2.21 | 1 |
 
 
-Last Updated: 2025-11-14T02:32:28.267171-05:00
+Last Updated: 2025-11-15T02:32:32.152973-05:00
