@@ -2,14 +2,14 @@
 
 | Station | Num Samples | Min | Max | Mean | Median |
 | :-----: | :---------: | :-: | :-: | :--: | :----: |
-| Union Station MARC Washington | 5 | 1 | 2 | 1.80 | 2 |
-| New Carrollton MARC Nb | 5 | 3 | 7 | 5.00 | 4 |
-| Bowie State MARC Nb | 5 | 4 | 9 | 6.00 | 5 |
-| Odenton MARC Nb | 5 | 4 | 9 | 6.60 | 6 |
-| BWI Rail Station MARC Nb | 5 | 6 | 25 | 10.80 | 8 |
-| Halethorpe MARC Nb | 5 | 8 | 26 | 12.60 | 10 |
-| West Baltimore MARC Nb | 5 | 8 | 27 | 13.20 | 10 |
-| Penn Station MARC Nb | 5 | 8 | 28 | 14.00 | 10 |
+| Union Station MARC Washington | 6 | 1 | 2 | 1.83 | 2 |
+| New Carrollton MARC Nb | 6 | 3 | 7 | 4.67 | 4 |
+| Bowie State MARC Nb | 6 | 4 | 9 | 5.67 | 5 |
+| Odenton MARC Nb | 6 | 4 | 9 | 6.33 | 6 |
+| BWI Rail Station MARC Nb | 6 | 5 | 25 | 9.83 | 8 |
+| Halethorpe MARC Nb | 6 | 6 | 26 | 11.50 | 10 |
+| West Baltimore MARC Nb | 6 | 5 | 27 | 11.83 | 10 |
+| Penn Station MARC Nb | 6 | 5 | 28 | 12.50 | 10 |
 
 
-Last Updated: 2025-11-10T02:30:08.002450-05:00
+Last Updated: 2025-11-17T02:30:11.947125-05:00
