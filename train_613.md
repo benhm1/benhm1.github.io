@@ -2,8 +2,8 @@
 
 | Station | Num Samples | Min | Max | Mean | Median |
 | :-----: | :---------: | :-: | :-: | :--: | :----: |
-| Martin Airport MARC Sb | 26 | 0 | 1 | 0.04 | 0 |
-| Penn Station MARC Sb | 26 | 5 | 11 | 6.96 | 7 |
+| Martin Airport MARC Sb | 27 | 0 | 1 | 0.04 | 0 |
+| Penn Station MARC Sb | 27 | 5 | 11 | 6.89 | 7 |
 
 
-Last Updated: 2025-11-19T02:32:50.111223-05:00
+Last Updated: 2025-11-20T02:32:42.031222-05:00
