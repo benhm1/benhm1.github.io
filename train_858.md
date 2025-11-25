@@ -7,11 +7,11 @@
 | College Park MARC Nb | 30 | 0 | 22 | 3.37 | 2 |
 | Greenbelt MARC Nb | 30 | 1 | 22 | 4.10 | 2 |
 | Muirkirk MARC Nb | 30 | 1 | 22 | 4.53 | 3 |
-| Laurel MARC Nb | 30 | 1 | 23 | 5.07 | 3 |
-| Savage MARC Nb | 30 | 2 | 23 | 5.73 | 4 |
-| Dorsey MARC Nb | 30 | 2 | 24 | 6.23 | 4 |
-| St Denis MARC Nb | 30 | 2 | 26 | 7.30 | 5 |
+| Laurel MARC Nb | 30 | 1 | 23 | 5.10 | 3 |
+| Savage MARC Nb | 30 | 2 | 23 | 5.77 | 4 |
+| Dorsey MARC Nb | 30 | 2 | 24 | 6.30 | 5 |
+| St Denis MARC Nb | 30 | 2 | 26 | 7.37 | 6 |
 | Camden Station MARC | 30 | 0 | 36 | 2.30 | 0 |
 
 
-Last Updated: 2025-11-22T02:33:36.314166-05:00
+Last Updated: 2025-11-25T02:33:56.866113-05:00
