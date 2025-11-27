@@ -2,8 +2,8 @@
 
 | Station | Num Samples | Min | Max | Mean | Median |
 | :-----: | :---------: | :-: | :-: | :--: | :----: |
-| Union Station MARC Washington | 29 | 0 | 18 | 2.28 | 1 |
-| Penn Station MARC Nb | 29 | 0 | 20 | 2.55 | 0 |
+| Union Station MARC Washington | 30 | 0 | 18 | 2.67 | 1 |
+| Penn Station MARC Nb | 30 | 0 | 20 | 3.07 | 0 |
 
 
-Last Updated: 2025-11-26T02:30:23.731631-05:00
+Last Updated: 2025-11-27T02:30:29.117963-05:00
