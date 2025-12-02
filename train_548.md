@@ -5,7 +5,7 @@
 | Union Station MARC Washington | 30 | 1 | 4 | 1.20 | 1 |
 | New Carrollton MARC Nb | 30 | 0 | 34 | 1.33 | 0 |
 | Seabrook MARC Nb | 30 | 0 | 36 | 1.50 | 0 |
-| Bowie State MARC Nb | 30 | 0 | 39 | 2.03 | 1 |
+| Bowie State MARC Nb | 30 | 0 | 39 | 2.07 | 1 |
 | Odenton MARC Nb | 30 | 0 | 40 | 2.77 | 1 |
 | BWI Rail Station MARC Nb | 30 | 0 | 39 | 2.27 | 0 |
 | Halethorpe MARC Nb | 30 | 0 | 39 | 2.17 | 0 |
@@ -17,4 +17,4 @@
 | Perryville MARC | 30 | 0 | 38 | 1.37 | 0 |
 
 
-Last Updated: 2025-11-27T02:32:30.005163-05:00
+Last Updated: 2025-12-02T02:32:37.728790-05:00
