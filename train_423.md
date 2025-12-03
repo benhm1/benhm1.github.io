@@ -2,7 +2,7 @@
 
 | Station | Num Samples | Min | Max | Mean | Median |
 | :-----: | :---------: | :-: | :-: | :--: | :----: |
-| Penn Station MARC Sb | 30 | 0 | 55 | 3.53 | 2 |
+| Penn Station MARC Sb | 30 | 0 | 55 | 3.50 | 2 |
 | West Baltimore MARC Sb | 30 | 0 | 57 | 6.03 | 3 |
 | Halethorpe MARC Sb | 30 | 0 | 61 | 5.17 | 2 |
 | BWI Rail Station MARC Sb | 30 | 0 | 59 | 3.80 | 0 |
@@ -13,4 +13,4 @@
 | Union Station MARC Washington | 30 | 0 | 63 | 6.10 | 3 |
 
 
-Last Updated: 2025-12-02T02:30:59.989956-05:00
+Last Updated: 2025-12-03T02:31:01.903794-05:00
