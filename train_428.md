@@ -8,8 +8,8 @@
 | Odenton MARC Nb | 30 | 0 | 41 | 1.80 | 0 |
 | BWI Rail Station MARC Nb | 30 | 0 | 44 | 1.87 | 0 |
 | Halethorpe MARC Nb | 30 | 0 | 45 | 2.17 | 0 |
-| West Baltimore MARC Nb | 30 | 0 | 50 | 2.50 | 0 |
-| Penn Station MARC Nb | 30 | 0 | 42 | 1.60 | 0 |
+| West Baltimore MARC Nb | 30 | 0 | 50 | 2.87 | 0 |
+| Penn Station MARC Nb | 30 | 0 | 42 | 1.70 | 0 |
 
 
-Last Updated: 2025-12-03T02:31:14.203540-05:00
+Last Updated: 2025-12-04T02:31:11.345743-05:00
