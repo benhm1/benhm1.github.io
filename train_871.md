@@ -2,20 +2,20 @@
 
 | Station | Num Samples | Min | Max | Mean | Median |
 | :-----: | :---------: | :-: | :-: | :--: | :----: |
-| Union Station MARC Washington | 6 | 0 | 1 | 0.17 | 0 |
-| Silver Spring MARC Wb | 6 | 0 | 21 | 4.67 | 3 |
-| Kensington MARC Wb | 6 | 0 | 21 | 4.67 | 3 |
-| Garrett Park MARC Wb | 6 | 0 | 21 | 4.67 | 3 |
-| Rockville MARC Wb | 6 | 0 | 21 | 5.33 | 4 |
-| Washington Grove MARC Wb | 6 | 0 | 20 | 6.00 | 4 |
-| Gaithersburg MARC Wb | 6 | 0 | 19 | 4.67 | 2 |
-| Metropolitan Grove MARC Wb | 6 | 0 | 19 | 4.50 | 1 |
-| Germantown MARC Wb | 6 | 0 | 20 | 5.33 | 3 |
-| Boyds MARC Wb | 6 | 0 | 21 | 5.83 | 4 |
-| Barnesville MARC Wb | 6 | 0 | 20 | 5.67 | 5 |
-| Dickerson MARC Wb | 6 | 1 | 19 | 7.00 | 6 |
-| Point Of Rocks MARC Wb | 6 | 1 | 20 | 7.17 | 8 |
-| Brunswick Md MARC Wb | 6 | 0 | 4 | 0.67 | 0 |
+| Union Station MARC Washington | 7 | 0 | 28 | 4.14 | 0 |
+| Silver Spring MARC Wb | 7 | 0 | 36 | 9.14 | 3 |
+| Kensington MARC Wb | 7 | 0 | 45 | 10.43 | 3 |
+| Garrett Park MARC Wb | 7 | 0 | 44 | 10.29 | 3 |
+| Rockville MARC Wb | 7 | 0 | 44 | 10.86 | 4 |
+| Washington Grove MARC Wb | 7 | 0 | 44 | 11.43 | 4 |
+| Gaithersburg MARC Wb | 7 | 0 | 43 | 10.14 | 2 |
+| Metropolitan Grove MARC Wb | 7 | 0 | 43 | 10.00 | 1 |
+| Germantown MARC Wb | 7 | 0 | 45 | 11.00 | 3 |
+| Boyds MARC Wb | 7 | 0 | 45 | 11.43 | 4 |
+| Barnesville MARC Wb | 7 | 0 | 43 | 11.00 | 5 |
+| Dickerson MARC Wb | 7 | 1 | 43 | 12.14 | 6 |
+| Point Of Rocks MARC Wb | 7 | 1 | 45 | 12.57 | 8 |
+| Brunswick Md MARC Wb | 7 | 0 | 26 | 4.29 | 0 |
 
 
-Last Updated: 2025-11-22T02:33:48.032513-05:00
+Last Updated: 2025-12-06T02:34:04.098917-05:00
