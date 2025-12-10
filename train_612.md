@@ -7,11 +7,11 @@
 | Seabrook MARC Nb | 30 | 0 | 65 | 3.70 | 1 |
 | Bowie State MARC Nb | 30 | 0 | 67 | 3.87 | 1 |
 | Odenton MARC Nb | 30 | 0 | 69 | 4.37 | 2 |
-| BWI Rail Station MARC Nb | 30 | 0 | 71 | 5.13 | 3 |
+| BWI Rail Station MARC Nb | 30 | 0 | 71 | 5.17 | 3 |
 | Halethorpe MARC Nb | 30 | 0 | 71 | 4.73 | 2 |
-| West Baltimore MARC Nb | 30 | 0 | 74 | 6.10 | 4 |
+| West Baltimore MARC Nb | 30 | 0 | 74 | 6.13 | 4 |
 | Penn Station MARC Nb | 30 | 0 | 74 | 3.23 | 0 |
 | Martin Airport MARC Nb | 30 | 0 | 88 | 3.30 | 0 |
 
 
-Last Updated: 2025-12-09T02:32:46.966784-05:00
+Last Updated: 2025-12-10T02:32:45.097895-05:00
