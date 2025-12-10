@@ -9,8 +9,8 @@
 | Odenton MARC Sb | 30 | 3 | 22 | 7.13 | 6 |
 | Bowie State MARC Sb | 30 | 3 | 22 | 7.13 | 6 |
 | Seabrook MARC Sb | 30 | 3 | 25 | 8.37 | 7 |
-| New Carrollton MARC Sb | 30 | 4 | 30 | 9.13 | 8 |
-| Union Station MARC Washington | 30 | 0 | 26 | 6.47 | 5 |
+| New Carrollton MARC Sb | 30 | 4 | 30 | 9.17 | 8 |
+| Union Station MARC Washington | 30 | 0 | 26 | 6.43 | 5 |
 
 
-Last Updated: 2025-12-09T02:31:40.525995-05:00
+Last Updated: 2025-12-10T02:31:38.637812-05:00
