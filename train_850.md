@@ -2,8 +2,8 @@
 
 | Station | Num Samples | Min | Max | Mean | Median |
 | :-----: | :---------: | :-: | :-: | :--: | :----: |
-| Union Station MARC Washington | 30 | 0 | 6 | 0.43 | 0 |
-| College Park MARC Nb | 30 | 0 | 15 | 3.53 | 2 |
+| Union Station MARC Washington | 30 | 0 | 6 | 0.47 | 0 |
+| College Park MARC Nb | 30 | 0 | 15 | 3.60 | 2 |
 | Muirkirk MARC Nb | 30 | 0 | 11 | 1.30 | 0 |
 | Laurel MARC Nb | 30 | 0 | 12 | 1.43 | 0 |
 | Savage MARC Nb | 30 | 0 | 15 | 2.27 | 0 |
@@ -11,4 +11,4 @@
 | Camden Station MARC | 30 | 0 | 0 | 0.00 | 0 |
 
 
-Last Updated: 2025-12-12T02:33:32.524652-05:00
+Last Updated: 2025-12-13T02:33:32.101345-05:00
