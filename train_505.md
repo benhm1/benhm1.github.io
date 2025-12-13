@@ -11,9 +11,9 @@
 | Halethorpe MARC Sb | 30 | 0 | 63 | 3.90 | 1 |
 | BWI Rail Station MARC Sb | 30 | 0 | 63 | 3.43 | 0 |
 | Odenton MARC Sb | 30 | 0 | 63 | 4.37 | 1 |
-| Bowie State MARC Sb | 30 | 0 | 63 | 4.37 | 1 |
+| Bowie State MARC Sb | 30 | 0 | 63 | 4.33 | 1 |
 | New Carrollton MARC Sb | 30 | 0 | 63 | 3.77 | 0 |
-| Union Station MARC Washington | 30 | 0 | 63 | 4.70 | 1 |
+| Union Station MARC Washington | 30 | 0 | 63 | 4.17 | 1 |
 
 
-Last Updated: 2025-12-12T02:32:09.648916-05:00
+Last Updated: 2025-12-13T02:32:09.057268-05:00
