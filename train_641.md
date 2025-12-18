@@ -4,11 +4,11 @@
 | :-----: | :---------: | :-: | :-: | :--: | :----: |
 | Martin Airport MARC Sb | 30 | 0 | 33 | 1.10 | 0 |
 | Penn Station MARC Sb | 30 | 0 | 15 | 0.80 | 0 |
-| BWI Rail Station MARC Sb | 30 | 0 | 9 | 1.07 | 0 |
-| Odenton MARC Sb | 30 | 0 | 9 | 1.60 | 1 |
-| Bowie State MARC Sb | 30 | 0 | 9 | 2.10 | 1 |
-| New Carrollton MARC Sb | 30 | 0 | 17 | 2.93 | 2 |
-| Union Station MARC Washington | 30 | 0 | 20 | 1.43 | 0 |
+| BWI Rail Station MARC Sb | 30 | 0 | 9 | 1.20 | 0 |
+| Odenton MARC Sb | 30 | 0 | 9 | 1.77 | 1 |
+| Bowie State MARC Sb | 30 | 0 | 9 | 2.27 | 1 |
+| New Carrollton MARC Sb | 30 | 0 | 17 | 3.17 | 2 |
+| Union Station MARC Washington | 30 | 0 | 20 | 1.53 | 0 |
 
 
-Last Updated: 2025-12-17T02:33:01.785077-05:00
+Last Updated: 2025-12-18T02:32:56.533866-05:00
