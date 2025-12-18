@@ -8,13 +8,13 @@
 | Barnesville MARC Eb | 30 | 0 | 23 | 2.27 | 1 |
 | Boyds MARC Eb | 30 | 0 | 32 | 1.97 | 1 |
 | Germantown MARC Eb | 30 | 0 | 34 | 3.07 | 2 |
-| Metropolitan Grove MARC Eb | 30 | 0 | 36 | 3.57 | 2 |
-| Gaithersburg MARC Eb | 30 | 0 | 36 | 4.13 | 3 |
+| Metropolitan Grove MARC Eb | 30 | 0 | 36 | 3.60 | 3 |
+| Gaithersburg MARC Eb | 30 | 0 | 36 | 4.17 | 3 |
 | Washington Grove MARC Eb | 30 | 0 | 37 | 5.47 | 4 |
-| Rockville MARC Eb | 30 | 0 | 34 | 3.67 | 2 |
+| Rockville MARC Eb | 30 | 0 | 34 | 3.70 | 2 |
 | Kensington MARC Eb | 30 | 0 | 36 | 5.00 | 4 |
-| Silver Spring MARC Eb | 30 | 0 | 35 | 3.93 | 3 |
+| Silver Spring MARC Eb | 30 | 0 | 35 | 3.97 | 3 |
 | Union Station MARC Washington | 30 | 0 | 20 | 0.67 | 0 |
 
 
-Last Updated: 2025-12-17T02:34:11.347205-05:00
+Last Updated: 2025-12-18T02:34:04.685670-05:00
