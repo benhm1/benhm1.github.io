@@ -2,15 +2,15 @@
 
 | Station | Num Samples | Min | Max | Mean | Median |
 | :-----: | :---------: | :-: | :-: | :--: | :----: |
-| Union Station MARC Washington | 10 | 0 | 2 | 1.30 | 1 |
-| New Carrollton MARC Nb | 10 | 1 | 3 | 1.80 | 2 |
-| Bowie State MARC Nb | 10 | 1 | 4 | 2.40 | 3 |
-| Odenton MARC Nb | 10 | 1 | 5 | 2.60 | 3 |
-| BWI Rail Station MARC Nb | 10 | 0 | 4 | 1.00 | 1 |
-| Halethorpe MARC Nb | 10 | 0 | 4 | 0.90 | 1 |
-| West Baltimore MARC Nb | 10 | 0 | 5 | 1.20 | 1 |
-| Penn Station MARC Nb | 10 | 0 | 4 | 0.40 | 0 |
-| Martin Airport MARC Nb | 10 | 0 | 0 | 0.00 | 0 |
+| Union Station MARC Washington | 11 | 0 | 2 | 1.27 | 1 |
+| New Carrollton MARC Nb | 11 | 1 | 3 | 1.73 | 1 |
+| Bowie State MARC Nb | 11 | 1 | 4 | 2.36 | 2 |
+| Odenton MARC Nb | 11 | 1 | 5 | 2.55 | 2 |
+| BWI Rail Station MARC Nb | 11 | 0 | 4 | 0.91 | 1 |
+| Halethorpe MARC Nb | 11 | 0 | 4 | 0.82 | 1 |
+| West Baltimore MARC Nb | 11 | 0 | 5 | 1.09 | 1 |
+| Penn Station MARC Nb | 11 | 0 | 4 | 0.36 | 0 |
+| Martin Airport MARC Nb | 11 | 0 | 0 | 0.00 | 0 |
 
 
-Last Updated: 2025-12-15T02:30:46.445166-05:00
+Last Updated: 2025-12-22T02:30:49.153651-05:00
