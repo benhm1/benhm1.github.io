@@ -9,8 +9,8 @@
 | Muirkirk MARC Nb | 30 | 0 | 60 | 5.77 | 2 |
 | Laurel MARC Nb | 30 | 0 | 61 | 6.40 | 3 |
 | Savage MARC Nb | 30 | 0 | 61 | 6.90 | 2 |
-| Dorsey MARC Nb | 30 | 0 | 62 | 8.80 | 3 |
+| Dorsey MARC Nb | 30 | 0 | 62 | 8.77 | 3 |
 | Camden Station MARC | 30 | 0 | 37 | 3.60 | 0 |
 
 
-Last Updated: 2025-12-20T02:33:06.710939-05:00
+Last Updated: 2025-12-23T02:33:16.252140-05:00
