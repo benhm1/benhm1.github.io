@@ -5,10 +5,10 @@
 | Camden Station MARC | 30 | 0 | 4 | 0.97 | 1 |
 | Dorsey MARC Sb | 30 | 0 | 8 | 1.60 | 1 |
 | Savage MARC Sb | 30 | 0 | 40 | 4.23 | 2 |
-| Laurel MARC Sb | 30 | 1 | 42 | 5.33 | 3 |
-| Muirkirk MARC Sb | 30 | 1 | 42 | 5.83 | 4 |
-| College Park MARC Sb | 30 | 2 | 52 | 7.70 | 5 |
+| Laurel MARC Sb | 30 | 1 | 42 | 5.30 | 3 |
+| Muirkirk MARC Sb | 30 | 1 | 42 | 5.77 | 4 |
+| College Park MARC Sb | 30 | 2 | 52 | 7.63 | 5 |
 | Union Station MARC Washington | 30 | 0 | 39 | 3.07 | 0 |
 
 
-Last Updated: 2025-12-23T02:33:36.937844-05:00
+Last Updated: 2025-12-24T02:33:39.283536-05:00
