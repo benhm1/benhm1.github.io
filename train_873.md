@@ -9,12 +9,12 @@
 | Gaithersburg MARC Wb | 30 | 0 | 12 | 2.10 | 1 |
 | Metropolitan Grove MARC Wb | 30 | 0 | 11 | 1.43 | 0 |
 | Germantown MARC Wb | 30 | 0 | 137 | 6.77 | 1 |
-| Barnesville MARC Wb | 30 | 0 | 141 | 7.77 | 1 |
-| Point Of Rocks MARC Wb | 30 | 0 | 142 | 8.20 | 2 |
+| Barnesville MARC Wb | 30 | 0 | 141 | 7.73 | 1 |
+| Point Of Rocks MARC Wb | 30 | 0 | 142 | 8.03 | 2 |
 | Brunswick Md MARC Wb | 30 | 0 | 132 | 4.63 | 0 |
 | Harpers Ferry W Va MARC Wb | 0 |  |  |  |  |
 | Duffielfs W Va MARC Wb | 0 |  |  |  |  |
 | Martinsburg W Va MARC | 0 |  |  |  |  |
 
 
-Last Updated: 2025-12-23T02:34:19.071363-05:00
+Last Updated: 2025-12-24T02:34:21.866283-05:00
