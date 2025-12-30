@@ -3,7 +3,7 @@
 | Station | Num Samples | Min | Max | Mean | Median |
 | :-----: | :---------: | :-: | :-: | :--: | :----: |
 | Union Station MARC Washington | 30 | 0 | 12 | 0.53 | 0 |
-| Riverdale MARC Nb | 30 | 0 | 36 | 3.10 | 1 |
+| Riverdale MARC Nb | 30 | 0 | 36 | 3.13 | 1 |
 | College Park MARC Nb | 30 | 0 | 36 | 4.03 | 2 |
 | Greenbelt MARC Nb | 30 | 0 | 36 | 4.70 | 2 |
 | Muirkirk MARC Nb | 30 | 0 | 38 | 5.37 | 3 |
@@ -14,4 +14,4 @@
 | Camden Station MARC | 30 | 0 | 36 | 4.70 | 0 |
 
 
-Last Updated: 2025-12-27T02:31:59.298691-05:00
+Last Updated: 2025-12-30T02:34:09.273032-05:00
