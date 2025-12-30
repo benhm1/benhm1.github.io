@@ -3,13 +3,13 @@
 | Station | Num Samples | Min | Max | Mean | Median |
 | :-----: | :---------: | :-: | :-: | :--: | :----: |
 | Union Station MARC Washington | 30 | 0 | 7 | 0.40 | 0 |
-| Silver Spring MARC Wb | 30 | 0 | 12 | 1.67 | 1 |
-| Kensington MARC Wb | 30 | 0 | 13 | 1.83 | 1 |
-| Rockville MARC Wb | 30 | 0 | 13 | 2.10 | 1 |
-| Gaithersburg MARC Wb | 30 | 0 | 12 | 2.10 | 1 |
+| Silver Spring MARC Wb | 30 | 0 | 12 | 1.60 | 1 |
+| Kensington MARC Wb | 30 | 0 | 13 | 1.77 | 1 |
+| Rockville MARC Wb | 30 | 0 | 13 | 2.03 | 1 |
+| Gaithersburg MARC Wb | 30 | 0 | 12 | 2.07 | 1 |
 | Metropolitan Grove MARC Wb | 30 | 0 | 11 | 1.43 | 0 |
-| Germantown MARC Wb | 30 | 0 | 137 | 6.77 | 1 |
-| Barnesville MARC Wb | 30 | 0 | 141 | 7.73 | 1 |
+| Germantown MARC Wb | 30 | 0 | 137 | 6.73 | 1 |
+| Barnesville MARC Wb | 30 | 0 | 141 | 7.70 | 1 |
 | Point Of Rocks MARC Wb | 30 | 0 | 142 | 8.03 | 2 |
 | Brunswick Md MARC Wb | 30 | 0 | 132 | 4.63 | 0 |
 | Harpers Ferry W Va MARC Wb | 0 |  |  |  |  |
@@ -17,4 +17,4 @@
 | Martinsburg W Va MARC | 0 |  |  |  |  |
 
 
-Last Updated: 2025-12-24T02:34:21.866283-05:00
+Last Updated: 2025-12-30T02:34:24.314545-05:00
