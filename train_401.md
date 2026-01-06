@@ -9,7 +9,7 @@
 | Odenton MARC Sb | 30 | 0 | 88 | 6.00 | 2 |
 | Bowie State MARC Sb | 30 | 0 | 88 | 5.80 | 2 |
 | New Carrollton MARC Sb | 30 | 0 | 86 | 4.83 | 1 |
-| Union Station MARC Washington | 30 | 0 | 88 | 5.43 | 1 |
+| Union Station MARC Washington | 30 | 0 | 88 | 5.50 | 1 |
 
 
-Last Updated: 2026-01-03T02:30:16.137698-05:00
+Last Updated: 2026-01-06T02:30:21.459805-05:00
