@@ -7,9 +7,9 @@
 | BWI Rail Station MARC Sb | 30 | 0 | 13 | 0.83 | 0 |
 | Odenton MARC Sb | 30 | 0 | 18 | 2.67 | 1 |
 | Bowie State MARC Sb | 30 | 0 | 20 | 3.00 | 2 |
-| Seabrook MARC Sb | 30 | 0 | 22 | 4.20 | 3 |
+| Seabrook MARC Sb | 30 | 0 | 22 | 4.17 | 3 |
 | New Carrollton MARC Sb | 30 | 0 | 21 | 3.10 | 1 |
-| Union Station MARC Washington | 30 | 0 | 54 | 6.10 | 3 |
+| Union Station MARC Washington | 30 | 0 | 54 | 6.03 | 3 |
 
 
-Last Updated: 2026-01-07T02:30:32.506157-05:00
+Last Updated: 2026-01-08T02:30:28.514343-05:00
