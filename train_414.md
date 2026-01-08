@@ -8,7 +8,7 @@
 | BWI Rail Station MARC Nb | 30 | 0 | 21 | 2.83 | 1 |
 | Halethorpe MARC Nb | 30 | 0 | 21 | 2.77 | 1 |
 | West Baltimore MARC Nb | 30 | 0 | 25 | 3.20 | 1 |
-| Penn Station MARC Nb | 30 | 0 | 28 | 2.63 | 0 |
+| Penn Station MARC Nb | 30 | 0 | 28 | 2.53 | 0 |
 
 
-Last Updated: 2026-01-07T02:30:44.410416-05:00
+Last Updated: 2026-01-08T02:30:41.309127-05:00
