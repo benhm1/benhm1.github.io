@@ -5,13 +5,13 @@
 | Perryville MARC | 30 | 0 | 8 | 0.80 | 0 |
 | Aberdeen MARC Sb | 30 | 0 | 10 | 1.97 | 1 |
 | Edgewood MARC Sb | 30 | 0 | 13 | 2.07 | 0 |
-| Martin Airport MARC Sb | 30 | 0 | 34 | 5.53 | 1 |
-| Penn Station MARC Sb | 30 | 0 | 34 | 4.80 | 1 |
-| West Baltimore MARC Sb | 30 | 0 | 31 | 3.47 | 0 |
+| Martin Airport MARC Sb | 30 | 0 | 34 | 5.40 | 1 |
+| Penn Station MARC Sb | 30 | 0 | 34 | 4.73 | 1 |
+| West Baltimore MARC Sb | 30 | 0 | 31 | 3.43 | 0 |
 | BWI Rail Station MARC Sb | 30 | 0 | 31 | 3.17 | 0 |
 | Odenton MARC Sb | 30 | 0 | 31 | 6.07 | 2 |
-| New Carrollton MARC Sb | 30 | 2 | 76 | 11.37 | 4 |
-| Union Station MARC Washington | 30 | 4 | 79 | 15.73 | 8 |
+| New Carrollton MARC Sb | 30 | 2 | 76 | 11.33 | 4 |
+| Union Station MARC Washington | 30 | 4 | 79 | 13.57 | 8 |
 
 
-Last Updated: 2026-01-07T02:32:18.724578-05:00
+Last Updated: 2026-01-08T02:32:16.169672-05:00
