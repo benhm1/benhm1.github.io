@@ -6,10 +6,10 @@
 | New Carrollton MARC Nb | 30 | 0 | 10 | 1.60 | 1 |
 | Seabrook MARC Nb | 30 | 0 | 12 | 2.40 | 1 |
 | Bowie State MARC Nb | 30 | 0 | 13 | 2.77 | 2 |
-| Odenton MARC Nb | 30 | 0 | 15 | 3.63 | 3 |
-| BWI Rail Station MARC Nb | 30 | 0 | 17 | 5.13 | 4 |
-| West Baltimore MARC Nb | 30 | 0 | 14 | 3.60 | 3 |
-| Penn Station MARC Nb | 30 | 0 | 14 | 2.27 | 0 |
+| Odenton MARC Nb | 30 | 0 | 15 | 3.60 | 3 |
+| BWI Rail Station MARC Nb | 30 | 0 | 17 | 5.07 | 4 |
+| West Baltimore MARC Nb | 30 | 0 | 14 | 3.50 | 2 |
+| Penn Station MARC Nb | 30 | 0 | 14 | 1.90 | 0 |
 
 
-Last Updated: 2026-01-07T02:30:15.350479-05:00
+Last Updated: 2026-01-08T02:30:10.581077-05:00
