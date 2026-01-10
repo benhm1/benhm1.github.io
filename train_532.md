@@ -6,10 +6,10 @@
 | New Carrollton MARC Nb | 30 | 0 | 7 | 1.60 | 2 |
 | Odenton MARC Nb | 30 | 0 | 22 | 1.13 | 0 |
 | Penn Station MARC Nb | 30 | 0 | 31 | 2.03 | 0 |
-| Martin Airport MARC Nb | 30 | 0 | 34 | 3.63 | 2 |
+| Martin Airport MARC Nb | 30 | 0 | 34 | 3.60 | 2 |
 | Edgewood MARC Nb | 30 | 0 | 32 | 2.37 | 0 |
 | Aberdeen MARC Nb | 30 | 0 | 33 | 2.73 | 0 |
 | Perryville MARC | 30 | 0 | 31 | 2.03 | 0 |
 
 
-Last Updated: 2026-01-09T02:32:30.722188-05:00
+Last Updated: 2026-01-10T02:32:32.611337-05:00
